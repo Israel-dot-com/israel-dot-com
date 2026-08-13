@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Israel
-
+- 🌱 I’m currently building my DevOps Portfolio
+- 📫 You can reach me at isltimi1000@gmail.com
 <!--
 **Israel-dot-com/israel-dot-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
- 📫 You can reach me at isltimi1000@gmail.com
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
